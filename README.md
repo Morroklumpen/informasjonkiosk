@@ -50,6 +50,10 @@ blir de største i oppgaven.
 - Lag også et skjema som beskriver hvor lang tid du tror det vil ta.
 - Opprett et prosjekt på github og begynn å fylle inn i backlog’en
 
+### Plan milepel 1
+1. lage en informasjonsmodell
+
+
 ## Milepæl 2 - Konsept
 Tidsfrist: TBA
 Konseptet bør inneholde følgende:
@@ -58,7 +62,8 @@ Konseptet bør inneholde følgende:
 sammen.
 - En oversikt over eventuell tredjeparts programvare.
 - Du bør ha en klar beskrivelse av hva prototypen skal inneholde.
-Milepæl 3 - Prototype
+- 
+## Milepæl 3 - Prototype
 Tidsfrist: TBA
 Lag en enkel prototype som gir en provisorisk introduksjon til teknologiene du vil bruke, og som
 kan fungere som et basisoppsett for prosjektet ditt.
