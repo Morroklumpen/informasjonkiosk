@@ -1,9 +1,17 @@
-# informasjonkiosk
+# Informasjonkiosk
 en side som viser info
 Prosjekt: Informasjonskiosk
 Dette er et tverrfaglig prosjekt som involverer kunnskap fra alle programfagene fra både VG1 og
 VG2. Prosjektet gjennomføres individuelt, og det har stort omfang, så planlegg godt. Vær også
 obs på at oppgaven kommer til å oppdateres underveis.
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
 
 ## Visjon
 Informasjonskiosken skal kunne vise viktig og interessant informasjon til et større publikum via
@@ -11,18 +19,16 @@ automatiserte skjermer som henter informasjon fra en skytjeneste og det skal væ
 som administrerer skjermen å legge til, endre og fjerne informasjon.
 
 ## Funksjonell beskrivelse
-- Når brukere slår på skjermen skal den automatisk og uten videre innstillinger vise
-informasjonen som er konfigurert.
-- Skjermen skal kunne vise bilder i fullskjermmodus
-- Tilpasse bilder som ikke har riktig format slik at det som er størst av høyde eller
-bredde får maksimal størrelse
+1. Når brukere slår på skjermen skal den automatisk og uten videre innstillinger vise informasjonen som er konfigurert.
+2. Skjermen skal kunne vise bilder i fullskjermmodus
+3. Tilpasse bilder som ikke har riktig format slik at det som er størst av høyde eller bredde får maksimal størrelse
 
-- Skjermen skal kunne vise tekst i forhåndsbestemt størrelse.
-- Skjermen skal kunne vise tekst og bilde i forhåndsbestemte størrelser.
-- Utvikle gjerne noen egne ideer for formatering her.
-- Skjermen skal rullere mellom bilder i intervaller som er forhåndsbestemt.
-- Skjermen skal kunne vise video
-- Bådee i fullskjerm, og sammen med tekst.
+4. Skjermen skal kunne vise tekst i forhåndsbestemt størrelse.
+5. Skjermen skal kunne vise tekst og bilde i forhåndsbestemte størrelser.
+6. Utvikle gjerne noen egne ideer for formatering her.
+7. Skjermen skal rullere mellom bilder i intervaller som er forhåndsbestemt.
+8. Skjermen skal kunne vise video
+9. Bådee i fullskjerm, og sammen med tekst.
 
 ## Adminpanel
 Adminpanelet er for de som administrerer systemet.
@@ -95,7 +101,6 @@ I driftsfaget vil det bli lagt vekt på
 - Serverherding
 - Brukeradministrasjon
 - Installasjon
-
 - Utrulling
 - oppkobling
 I utviklerfaget vil det bli lagt vekt på
