@@ -3,6 +3,7 @@ import { useState } from 'react';
 import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword, onAuthStateChanged } from "firebase/auth";
 import { initializeApp } from "firebase/app";
 import { useNavigate } from 'react-router-dom';
+import '../login.css';
 
 
 

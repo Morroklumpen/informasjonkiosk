@@ -13,6 +13,10 @@ const Main = () => {
         <h1>Velkommen til Informasjonskiosken</h1>
       </header>
 
+      <div id='logout'>
+        xxxxxxxxxxx
+      </div>
+
       <main>
         <section>
           <img src="./menu.jpeg" alt="Dagens Meny" />
