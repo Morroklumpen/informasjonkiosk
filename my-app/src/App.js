@@ -1,9 +1,10 @@
 import { BrowserRouter as Router, Link, Route, Routes } from 'react-router-dom';
 import './App.css';
-import Home from "./pages/Home";
+import './main.css';
+import Home from "./pages/main";
 import Login from './pages/login';
-import AdminPanel from './pages/admin';
-import SignUp from './pages/signup';
+// import AdminPanel from './pages/admin';
+// import SignUp from './pages/signup';
  
  
 const App = () => {
@@ -12,8 +13,8 @@ const App = () => {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/login" element={<Login />} />
-        <Route path="/admin" element={<AdminPanel />} />
-        <Route path="/signup" element={<SignUp />} />
+       {/* <Route path="/admin" element={<AdminPanel />} />
+        <Route path="/signup" element={<SignUp />} /> */}
  
       </Routes>
     </Router>
